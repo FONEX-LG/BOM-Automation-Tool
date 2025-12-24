@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.idea/
+venv/
+.venv/
+dist/
+build/
+*.spec
+
+config.py
+src/bom_po_tool/config.py
